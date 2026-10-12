@@ -1,7 +1,7 @@
 # Project Title
 
 **Status:** Planned  
-**Author:** [Bernard-Oteng](https://github.com/Bernard-Oteng)  
+**Author:** [Bernard Oteng](https://github.com/Bernard-Oteng)  
 **Date:** To be recorded
 
 Replace the guidance in this template with details from the actual project.
@@ -57,4 +57,4 @@ Link to screenshots, diagrams, sanitized logs, and relevant sources. Describe wh
 
 ## Author
 
-[Bernard-Oteng](https://github.com/Bernard-Oteng)
+[Bernard Oteng](https://github.com/Bernard-Oteng)
