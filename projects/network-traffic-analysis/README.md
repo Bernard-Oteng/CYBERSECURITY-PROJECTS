@@ -37,6 +37,6 @@ Use the [full project template](../../templates/project-template.md) to expand t
 
 ## Author
 
-[Bernard-Oteng](https://github.com/Bernard-Oteng)
+[Bernard Oteng](https://github.com/Bernard-Oteng)
 
 [Back to portfolio](../../README.md)
