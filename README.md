@@ -1,6 +1,6 @@
 # Cybersecurity Projects
 
-A growing collection of cybersecurity lab write-ups, investigations, and practical learning projects by [Bernard-Oteng](https://github.com/Bernard-Oteng).
+A growing collection of cybersecurity lab write-ups, investigations, and practical learning projects by [Bernard Oteng](https://github.com/Bernard-Oteng).
 
 This portfolio is being organized. The project areas below are **planned**; completed work and findings will be added with supporting evidence.
 
@@ -29,11 +29,22 @@ This portfolio is being organized. The project areas below are **planned**; comp
 - Limitations, challenges, and lessons learned.
 - Practical recommendations and follow-up work.
 
-## About This Portfolio
+## About Me
 
-This repository brings cybersecurity projects together in one place. Each project will distinguish planned work from completed results, and document the tools actually used.
+I'm Bernard Oteng, and I work with Wazuh, pfSense, Cisco, Kali Linux, QRadar, and Ubuntu. This portfolio brings together my cybersecurity project documentation and practical learning.
 
-Author: [Bernard-Oteng](https://github.com/Bernard-Oteng)
+## Skills and Tools
+
+- Wazuh
+- pfSense
+- Cisco
+- Kali Linux
+- QRadar
+- Ubuntu
+
+Each project documents the tools actually used, with planned work clearly distinguished from completed results.
+
+Author: [Bernard Oteng](https://github.com/Bernard-Oteng)
 
 ## Working With This Repository
 
