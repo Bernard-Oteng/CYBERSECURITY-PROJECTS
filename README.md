@@ -2,7 +2,14 @@
 
 A growing collection of cybersecurity lab write-ups, investigations, and practical learning projects by [Bernard Oteng](https://github.com/Bernard-Oteng).
 
-This portfolio is being organized. The project areas below are **planned**; completed work and findings will be added with supporting evidence.
+Featured work includes a documented Linux fundamentals exercise and a Cisco Packet Tracer departmental network implementation. Each write-up includes evidence, results, and limitations.
+
+## Featured Projects
+
+| Project | What I demonstrated | Status |
+| --- | --- | --- |
+| [Linux Fundamentals](projects/linux-fundamentals/README.md) | System inspection, resource checks, connectivity, and DNS resolution in Kali Linux | Completed exercise |
+| [TechNova Departmental Network](projects/technova-network/README.md) | Departmental addressing, DHCP/DNS, an extended ACL, and HTTP/connectivity testing | Implemented; follow-up validation remains |
 
 ## Explore the Portfolio
 
@@ -13,7 +20,7 @@ This portfolio is being organized. The project areas below are **planned**; comp
 - [Project write-up template](templates/project-template.md)
 - [How to add a project](docs/adding-a-project.md)
 
-## Project Roadmap
+## Planned Projects
 
 | Project | Focus | Status |
 | --- | --- | --- |
@@ -21,7 +28,7 @@ This portfolio is being organized. The project areas below are **planned**; comp
 | [Security log investigation](projects/security-log-investigation/README.md) | Build an event timeline and assess suspicious activity | Planned |
 | [System hardening](projects/system-hardening/README.md) | Document a baseline, configuration changes, and verification | Planned |
 
-## What Each Project Will Show
+## How Projects Are Documented
 
 - A clear objective and defined lab scope.
 - The environment, tools, and steps used.
@@ -37,7 +44,7 @@ I'm Bernard Oteng, and I work with Wazuh, pfSense, Cisco, Kali Linux, QRadar, an
 
 - Wazuh
 - pfSense
-- Cisco
+- Cisco / Cisco Packet Tracer
 - Kali Linux
 - QRadar
 - Ubuntu

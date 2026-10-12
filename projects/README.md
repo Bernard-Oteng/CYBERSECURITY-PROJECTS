@@ -1,6 +1,15 @@
 # Project Roadmap
 
-These are starter project outlines. No lab execution or completed findings are claimed.
+## Documented Work
+
+| Project | Evidence and results | Status |
+| --- | --- | --- |
+| [Linux Fundamentals](linux-fundamentals/README.md) | Five screenshots covering identity, resources, uptime, and connectivity | Completed exercise |
+| [TechNova Departmental Network](technova-network/README.md) | Topology, DHCP pools, ACL, ping tests, and HTTP access | Implemented; follow-up validation remains |
+
+## Planned Projects
+
+These starter outlines remain planned and are separate from the documented work above.
 
 | Project | Suggested evidence | Status |
 | --- | --- | --- |
@@ -12,6 +21,7 @@ These are starter project outlines. No lab execution or completed findings are c
 
 - **Planned:** An outline exists; practical work has not been documented.
 - **In progress:** Work has begun; evidence or analysis is incomplete.
+- **Implemented; follow-up validation remains:** Implementation is documented, with outstanding tests or configuration issues explicitly listed.
 - **Completed:** The procedure, results, and supporting evidence are documented.
 
 Use the [project template](../templates/project-template.md) for each full write-up. Update both this roadmap and the [portfolio homepage](../README.md) when a project's status changes.
