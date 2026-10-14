@@ -1,8 +1,8 @@
 # Cybersecurity Projects
 
-A growing collection of cybersecurity lab write-ups, investigations, and practical learning projects by [Bernard Oteng](https://github.com/Bernard-Oteng).
+Hi, I'm **Bernard Oteng**. This repository documents my hands-on cybersecurity learning through Linux administration, networking, and security labs. I work with **Wazuh, pfSense, Cisco, Kali Linux, QRadar, and Ubuntu**, and use this portfolio to explain what I build, how I test it, and what I learn.
 
-Featured work includes a documented Linux fundamentals exercise and a Cisco Packet Tracer departmental network implementation. Each write-up includes evidence, results, and limitations.
+My documented projects include a **Linux Fundamentals** exercise in Kali Linux and the **TechNova departmental network** built in Cisco Packet Tracer. Each write-up presents the configuration, supporting screenshots, observed results, and any remaining limitations or follow-up work.
 
 ## Featured Projects
 
