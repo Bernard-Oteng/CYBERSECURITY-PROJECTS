@@ -1,6 +1,6 @@
 # Linux Fundamentals: System Inspection and Connectivity
 
-[**Download full report (PDF)**](report.pdf?raw=true)
+[**View or download full report (PDF)**](https://github.com/Bernard-Oteng/CYBERSECURITY-PROJECTS/blob/main/projects/linux-fundamentals/report.pdf)
 
 Public copy with personal identifiers and lab credentials removed.
 
