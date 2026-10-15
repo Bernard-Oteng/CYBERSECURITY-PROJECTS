@@ -1,6 +1,6 @@
 # TechNova: Departmental Network and Access Control
 
-[**Download full report (PDF)**](report.pdf?raw=true)
+[**View or download full report (PDF)**](https://github.com/Bernard-Oteng/CYBERSECURITY-PROJECTS/blob/main/projects/technova-network/report.pdf)
 
 Public copy with personal identifiers and lab credentials removed.
 
