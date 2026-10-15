@@ -1,5 +1,9 @@
 # TechNova: Departmental Network and Access Control
 
+[**Download full report (PDF)**](report.pdf?raw=true)
+
+Public copy with personal identifiers and lab credentials removed.
+
 **Author:** [Bernard Oteng](https://github.com/Bernard-Oteng)  
 **Report date:** 2 October 2026  
 **Status:** Implemented and documented; validation gaps and a DHCP pool correction remain  

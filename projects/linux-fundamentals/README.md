@@ -1,5 +1,9 @@
 # Linux Fundamentals: System Inspection and Connectivity
 
+[**Download full report (PDF)**](report.pdf?raw=true)
+
+Public copy with personal identifiers and lab credentials removed.
+
 **Author:** [Bernard Oteng](https://github.com/Bernard-Oteng)  
 **Status:** Completed exercise, documented with screenshots  
 **Environment:** Kali Linux virtual machine
