@@ -1,46 +1,26 @@
 # Cybersecurity Projects
 
-Hi, I'm **Bernard Oteng**. This repository documents my hands-on cybersecurity learning through Linux administration, networking, and security labs. I work with **Wazuh, pfSense, Cisco, Kali Linux, QRadar, and Ubuntu**, and use this portfolio to explain what I build, how I test it, and what I learn.
+I'm **Bernard Oteng**. This portfolio contains my Linux and networking coursework, with screenshots and explanations of the commands, configurations, and results.
 
-My documented projects include a **Linux Fundamentals** exercise in Kali Linux and the **TechNova departmental network** built in Cisco Packet Tracer. Each write-up presents the configuration, supporting screenshots, observed results, and any remaining limitations or follow-up work.
+## Projects
 
-## Featured Projects
+### [Linux Fundamentals](projects/linux-fundamentals/README.md)
 
-| Project | What I demonstrated | Status |
-| --- | --- | --- |
-| [Linux Fundamentals](projects/linux-fundamentals/README.md) | System inspection, resource checks, connectivity, and DNS resolution in Kali Linux | Completed exercise |
-| [TechNova Departmental Network](projects/technova-network/README.md) | Departmental addressing, DHCP/DNS, an extended ACL, and HTTP/connectivity testing | Implemented; follow-up validation remains |
+In this exercise, I used a Kali Linux virtual machine to check the current user, working directory, operating system, CPU, memory, disk space, and uptime. I also tested connectivity using an IP address and a domain name.
 
-## Explore the Portfolio
+The write-up includes the commands I ran, screenshots of their output, and an explanation of the results.
 
-- [Project roadmap](projects/README.md)
-- [Network traffic analysis](projects/network-traffic-analysis/README.md)
-- [Security log investigation](projects/security-log-investigation/README.md)
-- [System hardening](projects/system-hardening/README.md)
-- [Project write-up template](templates/project-template.md)
-- [How to add a project](docs/adding-a-project.md)
+**Status:** Completed exercise.
 
-## Planned Projects
+### [TechNova Departmental Network](projects/technova-network/README.md)
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| [Network traffic analysis](projects/network-traffic-analysis/README.md) | Examine lab traffic and explain observations | Planned |
-| [Security log investigation](projects/security-log-investigation/README.md) | Build an event timeline and assess suspicious activity | Planned |
-| [System hardening](projects/system-hardening/README.md) | Document a baseline, configuration changes, and verification | Planned |
+I built a network in Cisco Packet Tracer connecting IT, Sales, and HR. The project covers departmental addressing, DHCP, DNS, and an access control list that blocks ICMP traffic from Sales to IT while allowing other IP traffic.
 
-## How Projects Are Documented
+The screenshots show a blocked Sales-to-IT ping, a successful HR-to-IT ping, and HTTP access from Sales. The report also identifies a DHCP pool limit that needs correction and tests that still need to be completed, including an FTP client session.
 
-- A clear objective and defined lab scope.
-- The environment, tools, and steps used.
-- Evidence that supports the findings.
-- Limitations, challenges, and lessons learned.
-- Practical recommendations and follow-up work.
+**Status:** Implemented and documented, with corrections and further testing noted in the report.
 
-## About Me
-
-I'm Bernard Oteng, and I work with Wazuh, pfSense, Cisco, Kali Linux, QRadar, and Ubuntu. This portfolio brings together my cybersecurity project documentation and practical learning.
-
-## Skills and Tools
+## Tools I Work With
 
 - Wazuh
 - pfSense
@@ -49,12 +29,8 @@ I'm Bernard Oteng, and I work with Wazuh, pfSense, Cisco, Kali Linux, QRadar, an
 - QRadar
 - Ubuntu
 
-Each project documents the tools actually used, with planned work clearly distinguished from completed results.
+Each project write-up lists the tools used for that particular exercise.
 
-Author: [Bernard Oteng](https://github.com/Bernard-Oteng)
+## Author
 
-## Working With This Repository
-
-Start with the [project guide](docs/adding-a-project.md), then copy the [write-up template](templates/project-template.md) into a new project folder. Add screenshots, diagrams, and sanitized supporting files alongside the write-up.
-
-Only include work performed in an owned lab or an explicitly authorized environment. Remove credentials, personal information, and confidential data from evidence before committing it.
+[Bernard Oteng](https://github.com/Bernard-Oteng)
